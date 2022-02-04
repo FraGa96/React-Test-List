@@ -1,10 +1,13 @@
 import { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { changePlaylist } from '../actions/changePlaylist'
-import { startLoading, stopLoading } from '../actions/changeLoading'
+import {
+  loadingStarted,
+  loadingStopped,
+  tracksChanged,
+  currentPlaylistChanged
+} from '../slices/napsterSlice'
 import { getPlaylistWithId } from '../services/getPlaylistWithId'
 import { getTracks } from '../services/getTracks'
-import { changeTracks } from '../actions/changeTracks'
 
 export const useTracks = (id, limit = 10) => {
   const {
@@ -20,12 +23,12 @@ export const useTracks = (id, limit = 10) => {
       if (allPlaylists.length > 0) {
         const playlist = allPlaylists
           .filter(list => list.id === id)[0]
-        dispatch(changePlaylist(playlist))
+        dispatch(currentPlaylistChanged(playlist))
         resolve(true)
       } else {
         getPlaylistWithId(id)
           .then(playlist => {
-            dispatch(changePlaylist(playlist))
+            dispatch(currentPlaylistChanged(playlist))
             resolve(true)
           })
       }
@@ -36,17 +39,17 @@ export const useTracks = (id, limit = 10) => {
     return new Promise(resolve => {
       getTracks(id, limit)
         .then(tracks => {
-          dispatch(changeTracks(tracks))
+          dispatch(tracksChanged(tracks))
           resolve(true)
         })
     })
   }
 
   const setPlaylistTracks = async () => {
-    dispatch(startLoading())
+    dispatch(loadingStarted())
     await changeCurrentPlaylist()
     await changeListOfTracks()
-    dispatch(stopLoading())
+    dispatch(loadingStopped())
   }
 
   useEffect(() => {

@@ -1,10 +1,8 @@
-import { combineReducers, createStore } from '@reduxjs/toolkit'
-import { napsterReducer } from './reducers/napsterReducer'
+import { configureStore } from '@reduxjs/toolkit'
+import { napsterReducer } from './slices/napsterSlice'
 
-const rootReducer = combineReducers({
-  napster: napsterReducer
-})
-
-export const store = createStore(rootReducer,
-  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-)
+export const store = configureStore({
+  reducer: {
+    napster: napsterReducer,
+  },
+});

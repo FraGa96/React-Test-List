@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { startLoading } from '../actions/changeLoading'
+import { loadingStarted } from '../slices/napsterSlice';
 import { getPlaylists } from '../services/getPlaylists'
 
 export const usePlaylists = () => {
@@ -8,7 +8,7 @@ export const usePlaylists = () => {
   const dispatch = useDispatch()
 
   const getTopPlaylist = () => {
-    dispatch(startLoading())
+    dispatch(loadingStarted())
     getPlaylists()
       .then(playlists => {
         dispatch({ type: '@napster/initPlaylists', payload: playlists })
