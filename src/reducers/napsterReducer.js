@@ -1,40 +1,32 @@
-const initialValues = {
+import { createReducer } from "@reduxjs/toolkit"
+
+const INITIAL_STATE = {
   playlists: [],
   isLoading: false,
   tracks: [],
   currentPlaylist: {}
 }
 
-export const napsterReducer = (state = initialValues, action) => {
-  const { type, payload } = action
-  switch (type) {
-    case '@napster/startedLoading':
-      return {
-        ...state,
-        isLoading: true
-      }
-    case '@napster/stoppedLoading':
-      return {
-        ...state,
-        isLoading: false
-      }
-    case '@napster/initPlaylists':
-      return {
-        ...state,
-        playlists: payload,
-        isLoading: false
-      }
-    case '@napster/changedTracks':
-      return {
-        ...state,
-        tracks: payload
-      }
-    case '@napster/changedCurrentPlaylist':
-      return {
-        ...state,
-        currentPlaylist: payload
-      }
-    default:
-      return state
-  }
-}
+export const napsterReducer = createReducer(INITIAL_STATE, (builder) => {
+  builder.addCase('@napster/startedLoading', (state) => ({
+    ...state,
+    isLoading: true
+  }))
+    .addCase('@napster/stoppedLoading', (state) => ({
+      ...state,
+      isLoading: false
+    }))
+    .addCase('@napster/initPlaylists', (state, { payload }) => ({
+      ...state,
+      playlists: payload,
+      isLoading: false
+    }))
+    .addCase('@napster/changedTracks', (state, { payload }) => ({
+      ...state,
+      tracks: payload
+    }))
+    .addCase('@napster/changedCurrentPlaylist', (state, { payload }) => ({
+      ...state,
+      currentPlaylist: payload
+    }));
+  });
