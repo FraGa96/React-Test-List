@@ -1,0 +1,1076 @@
+{
+  "tracks": [
+    {
+      "type": "track",
+      "id": "tra.644141520",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644141520",
+      "playbackSeconds": 108,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Flamin’ Hottie",
+      "isrc": "QMCE32200125",
+      "upc": "810043689656",
+      "shortcut": "megan-thee-stallion/flamin-hottie/flamin-hottie",
+      "blurbs": [],
+      "artistId": "art.268491907",
+      "artistName": "Megan Thee Stallion",
+      "albumName": "Flamin’ Hottie",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644141519",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "guestVocals": "art.268491907",
+        "collaborator": "art.531799973",
+        "producer": "art.263678170",
+        "primaryArtist": "art.268491907",
+        "remixer": "art.531799973"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.268491907"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.268491907"
+        },
+        "albums": {
+          "ids": [
+            "alb.644141519"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644141519"
+        },
+        "genres": {
+          "ids": [
+            "g.146"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.146"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196515"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/8/5/4/4/9/2524994458.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644361296",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644361296",
+      "playbackSeconds": 210,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Gospel",
+      "isrc": "USUM72123988",
+      "upc": "00602445448814",
+      "shortcut": "dr-dre/gospel/gospel",
+      "blurbs": [],
+      "artistId": "art.3684",
+      "artistName": "Dr. Dre",
+      "albumName": "Gospel",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644361295",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "engineer": "art.331380925",
+        "guestMusician": "art.11107039",
+        "featuredPerformer": "art.474501724",
+        "composer": "art.32745218",
+        "producer": "art.644361297",
+        "remixer": "art.3684",
+        "primaryArtist": "art.3684"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.3684"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.3684"
+        },
+        "albums": {
+          "ids": [
+            "alb.644361295"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644361295"
+        },
+        "composers": {
+          "ids": [
+            "art.32745218"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.32745218"
+        },
+        "genres": {
+          "ids": [
+            "g.366",
+            "g.250",
+            "g.173",
+            "g.1029",
+            "g.1027",
+            "g.1012",
+            "g.146",
+            "g.1032"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.366,g.250,g.173,g.1029,g.1027,g.1012,g.146,g.1032"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196522",
+            "tag.152196517",
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196522,tag.152196517,tag.152196515"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/1/3/6/2/2/2525422631.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644284829",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644284829",
+      "playbackSeconds": 205,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "If You Ever Change Your Mind",
+      "isrc": "USUM72121432",
+      "upc": "00602445373123",
+      "shortcut": "calum-scott/if-you-ever-change-your-mind/if-you-ever-change-your-mind",
+      "blurbs": [],
+      "artistId": "art.218418809",
+      "artistName": "Calum Scott",
+      "albumName": "If You Ever Change Your Mind",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644284828",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "composer": "art.218418809",
+        "featuredPerformer": "art.28497074",
+        "collaborator": "art.286747698",
+        "guestMusician": "art.28497074",
+        "guestVocals": "art.218418809",
+        "engineer": "art.28497074",
+        "producer": "art.28497074",
+        "primaryArtist": "art.218418809",
+        "remixer": "art.27382825"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.218418809"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.218418809"
+        },
+        "albums": {
+          "ids": [
+            "alb.644284828"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644284828"
+        },
+        "composers": {
+          "ids": [
+            "art.218418809"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.218418809"
+        },
+        "genres": {
+          "ids": [
+            "g.115",
+            "g.71",
+            "g.146",
+            "g.10"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.115,g.71,g.146,g.10"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196495",
+            "tag.152196543",
+            "tag.152196515",
+            "tag.152196497"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196495,tag.152196543,tag.152196515,tag.152196497"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/9/8/7/6/2525267890.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644361346",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644361346",
+      "playbackSeconds": 207,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Do We Have A Problem?",
+      "isrc": "USUM72201400",
+      "upc": "00602445535132",
+      "shortcut": "nicki-minaj/do-we-have-a-problem-explicit/do-we-have-a-problem",
+      "blurbs": [],
+      "artistId": "art.32558379",
+      "artistName": "Nicki Minaj",
+      "albumName": "Do We Have A Problem?",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644361345",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "guestVocals": "art.31168604",
+        "featuredPerformer": "art.31168604",
+        "engineer": "art.51308872",
+        "collaborator": "art.295539894",
+        "composer": "art.39627159",
+        "primaryArtist": "art.32558379",
+        "remixer": "art.51308872",
+        "producer": "art.301589790"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.32558379"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.32558379"
+        },
+        "albums": {
+          "ids": [
+            "alb.644361345"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644361345"
+        },
+        "composers": {
+          "ids": [
+            "art.39627159"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.39627159"
+        },
+        "genres": {
+          "ids": [
+            "g.173",
+            "g.174",
+            "g.115",
+            "g.146"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.173,g.174,g.115,g.146"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196517",
+            "tag.152196516",
+            "tag.152196495",
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196517,tag.152196516,tag.152196495,tag.152196515"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/1/1/5/2/2/2525422511.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.643355292",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.643355292",
+      "playbackSeconds": 137,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "SAOKO",
+      "isrc": "USSM12109218",
+      "upc": "886449869381",
+      "shortcut": "rosalia-2/saoko/saoko",
+      "blurbs": [],
+      "artistId": "art.65714134",
+      "artistName": "ROSALÍA",
+      "albumName": "SAOKO",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.643355291",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "engineer": "art.624756934",
+        "composer": "art.276569662",
+        "producer": "art.629919147",
+        "guestMusician": "art.629919147",
+        "primaryArtist": "art.65714134",
+        "guestVocals": "art.65714134",
+        "featuredPerformer": "art.65714134"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.65714134"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.65714134"
+        },
+        "albums": {
+          "ids": [
+            "alb.643355291"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.643355291"
+        },
+        "composers": {
+          "ids": [
+            "art.276569662"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.276569662"
+        },
+        "genres": {
+          "ids": [
+            "g.209"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.209"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196560"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196560"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/9/1/6/0/5/2523150619.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644290661",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644290661",
+      "playbackSeconds": 203,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Tomorrow",
+      "isrc": "USUG12200394",
+      "upc": "00602445443000",
+      "shortcut": "john-legend/tomorrow-single/tomorrow",
+      "blurbs": [],
+      "artistId": "art.6432383",
+      "artistName": "John Legend",
+      "albumName": "Tomorrow",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644290660",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "producer": "art.61196054",
+        "collaborator": "art.295539894",
+        "composer": "art.61196054",
+        "remixer": "art.45737714",
+        "engineer": "art.45737714",
+        "featuredPerformer": "art.54482",
+        "conductor": "art.54482",
+        "primaryArtist": "art.6432383"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.6432383"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.6432383"
+        },
+        "albums": {
+          "ids": [
+            "alb.644290660"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644290660"
+        },
+        "composers": {
+          "ids": [
+            "art.61196054"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.61196054"
+        },
+        "genres": {
+          "ids": [
+            "g.252",
+            "g.10",
+            "g.194",
+            "g.197",
+            "g.246",
+            "g.71",
+            "g.120"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.252,g.10,g.194,g.197,g.246,g.71,g.120"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196530",
+            "tag.152196497",
+            "tag.152196523",
+            "tag.152196589",
+            "tag.152196543",
+            "tag.152196476"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196530,tag.152196497,tag.152196523,tag.152196589,tag.152196543,tag.152196476"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/6/6/5/4/5/2525254566.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.642842688",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.642842688",
+      "playbackSeconds": 206,
+      "isExplicit": false,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "she's all i wanna be",
+      "isrc": "USRC12103120",
+      "shortcut": "tate-mcrae/shes-all-i-wanna-be/shes-all-i-wanna-be",
+      "blurbs": [],
+      "artistId": "art.293620938",
+      "artistName": "Tate McRae",
+      "albumName": "she's all i wanna be",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.642842687",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "composer": "art.28497074",
+        "featuredPerformer": "art.293620938",
+        "guestMusician": "art.28497074",
+        "producer": "art.28497074",
+        "primaryArtist": "art.293620938",
+        "engineer": "art.14898324"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.293620938"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.293620938"
+        },
+        "albums": {
+          "ids": [
+            "alb.642842687"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.642842687"
+        },
+        "composers": {
+          "ids": [
+            "art.28497074"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.28497074"
+        },
+        "genres": {
+          "ids": [
+            "g.115",
+            "g.71"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.115,g.71"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196495",
+            "tag.152196543"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196495,tag.152196543"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/0/4/6/2/1/2521412640.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644359866",
+      "index": 1,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644359866",
+      "playbackSeconds": 204,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Scared Money",
+      "isrc": "USUG12103818",
+      "upc": "00602445384433",
+      "shortcut": "yg/scared-money-single/scared-money",
+      "blurbs": [],
+      "artistId": "art.10421022",
+      "artistName": "YG",
+      "albumName": "Scared Money",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644359865",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "producer": "art.145066388",
+        "featuredPerformer": "art.20697410",
+        "engineer": "art.304596049",
+        "composer": "art.299961209",
+        "remixer": "art.371019819",
+        "primaryArtist": "art.10421022",
+        "collaborator": "art.632984450"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.10421022"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.10421022"
+        },
+        "albums": {
+          "ids": [
+            "alb.644359865"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644359865"
+        },
+        "composers": {
+          "ids": [
+            "art.299961209"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.299961209"
+        },
+        "genres": {
+          "ids": [
+            "g.250",
+            "g.173",
+            "g.146",
+            "g.366",
+            "g.10006"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.250,g.173,g.146,g.366,g.10006"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196522",
+            "tag.152196517",
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196522,tag.152196517,tag.152196515"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/7/1/0/5/2/2525425017.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644290606",
+      "index": 5,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644290606",
+      "playbackSeconds": 173,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Back To The Future",
+      "isrc": "GBUM72103992",
+      "upc": "00602438711901",
+      "shortcut": "bastille/give-me-the-future-explicit/back-to-the-future",
+      "blurbs": [],
+      "artistId": "art.51123467",
+      "artistName": "Bastille",
+      "albumName": "Give Me The Future",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644290535",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "featuredPerformer": "art.591857856",
+        "engineer": "art.46908471",
+        "guestMusician": "art.591857856",
+        "primaryArtist": "art.51123467",
+        "composer": "art.263633009",
+        "remixer": "art.316652309",
+        "producer": "art.263633009",
+        "guestVocals": "art.9874481"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.51123467"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.51123467"
+        },
+        "albums": {
+          "ids": [
+            "alb.644290535"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644290535"
+        },
+        "composers": {
+          "ids": [
+            "art.263633009"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.263633009"
+        },
+        "genres": {
+          "ids": [
+            "g.204",
+            "g.33"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.204,g.33"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196510",
+            "tag.152196505"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196510,tag.152196505"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/2/2/7/4/5/2525254722.mp3"
+    },
+    {
+      "type": "track",
+      "id": "tra.644289542",
+      "index": 5,
+      "disc": 1,
+      "href": "https://api.napster.com/v2.2/tracks/tra.644289542",
+      "playbackSeconds": 104,
+      "isExplicit": true,
+      "isStreamable": true,
+      "isAvailableInHiRes": false,
+      "name": "Neighbors Know My Name",
+      "isrc": "USUG12104156",
+      "upc": "00602445529230",
+      "shortcut": "2-chainz/dope-dont-sell-itself-explicit/neighbors-know-my-name",
+      "blurbs": [],
+      "artistId": "art.46022569",
+      "artistName": "2 Chainz",
+      "albumName": "Dope Don't Sell Itself",
+      "formats": [
+        {
+          "type": "format",
+          "bitrate": 128,
+          "name": "MP3",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 192,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 320,
+          "name": "AAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        },
+        {
+          "type": "format",
+          "bitrate": 64,
+          "name": "AAC PLUS",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "losslessFormats": [
+        {
+          "type": "format",
+          "bitrate": 44100,
+          "name": "FLAC",
+          "sampleBits": 16,
+          "sampleRate": 44100
+        }
+      ],
+      "albumId": "alb.644289489",
+      "isAvailableInAtmos": false,
+      "contributors": {
+        "composer": "art.263073188",
+        "featuredPerformer": "art.539627572",
+        "engineer": "art.38739774",
+        "producer": "art.263073184",
+        "remixer": "art.51068082",
+        "collaborator": "art.460778164",
+        "primaryArtist": "art.46022569"
+      },
+      "links": {
+        "artists": {
+          "ids": [
+            "art.46022569"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.46022569"
+        },
+        "albums": {
+          "ids": [
+            "alb.644289489"
+          ],
+          "href": "https://api.napster.com/v2.2/albums/alb.644289489"
+        },
+        "composers": {
+          "ids": [
+            "art.263073188"
+          ],
+          "href": "https://api.napster.com/v2.2/artists/art.263073188"
+        },
+        "genres": {
+          "ids": [
+            "g.1036",
+            "g.173",
+            "g.146",
+            "g.519",
+            "g.71"
+          ],
+          "href": "https://api.napster.com/v2.2/genres/g.1036,g.173,g.146,g.519,g.71"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196517",
+            "tag.152196515",
+            "tag.152196543"
+          ],
+          "href": "https://api.napster.com/v2.2/tags/tag.152196517,tag.152196515,tag.152196543"
+        }
+      },
+      "previewURL": "https://listen.hs.llnwd.net/g3/prvw/4/7/4/7/5/2525257474.mp3"
+    }
+  ],
+  "meta": {
+    "query": {
+      "limit": 10,
+      "offset": 0,
+      "next": "/playlists/pp.225974698/tracks?limit=10&apikey=ZTk2YjY4MjMtMDAzYy00MTg4LWE2MjYtZDIzNjJmMmM0YTdm&offset=10"
+    },
+    "returnedCount": 10,
+    "totalCount": 58
+  }
+}

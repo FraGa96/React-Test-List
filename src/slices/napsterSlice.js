@@ -24,8 +24,6 @@ export const changeCurrentPlaylist = createAsyncThunk('@napster/changeCurrentPla
 
   let playlist = null
 
-  console.log(playlists)
-
   if (napster.playlists.length > 0) {
     playlist = playlists.find((list) => list.id === payload)
   } else {

@@ -40,7 +40,7 @@ function List () {
           onChange={lookForText}
           placeholder='Search'
         />
-        <ul>
+        <ul data-testid='list-component'>
           {
             existMatch
               ? search.match.map((item, id) =>

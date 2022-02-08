@@ -1,0 +1,529 @@
+{
+  "playlists": [
+    {
+      "type": "playlist",
+      "id": "pp.225974698",
+      "name": "New Music",
+      "modified": "2022-02-04T07:28:21.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.225974698",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.225974698",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.225974698/artists/images/230x153.jpg",
+          "contentId": "pp.225974698",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "New music",
+      "favoriteCount": 8554,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "205D5C750C8A03D0E050960A39036947"
+          ],
+          "href": "https://api.napster.com/v2.1/members/205D5C750C8A03D0E050960A39036947"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.225974698/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196495",
+            "tag.152196420"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196495,tag.152196420"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.268491907",
+            "Art.3684",
+            "Art.218418809",
+            "Art.32558379"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.268491907,Art.3684,Art.218418809,Art.32558379"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.214725454",
+      "name": "Trending Pop",
+      "modified": "2022-01-22T23:45:32.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.214725454",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.214725454",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.214725454/artists/images/230x153.jpg",
+          "contentId": "pp.214725454",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tHot and remixed new singles climbing the pop charts -- or about to.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+      "favoriteCount": 4620,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "97B6912783C37062E043C0A87FBE7062"
+          ],
+          "href": "https://api.napster.com/v2.1/members/97B6912783C37062E043C0A87FBE7062"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.214725454/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196420",
+            "tag.152196431",
+            "tag.156763213",
+            "tag.152196495"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196420,tag.152196431,tag.156763213,tag.152196495"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.44837525",
+            "Art.69410617",
+            "Art.2630",
+            "Art.372755812"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.44837525,Art.69410617,Art.2630,Art.372755812"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.180234724",
+      "name": "Trending Hip-Hop",
+      "modified": "2022-01-31T19:42:49.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.180234724",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.180234724",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.180234724/artists/images/230x153.jpg",
+          "contentId": "pp.180234724",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "Dig into this primer on the hottest and buzziest rap tracks of the moment.",
+      "favoriteCount": 7652,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "97B6912783C37062E043C0A87FBE7062"
+          ],
+          "href": "https://api.napster.com/v2.1/members/97B6912783C37062E043C0A87FBE7062"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.180234724/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.198467121",
+            "tag.152196420",
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.198467121,tag.152196420,tag.152196515"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.61938941",
+            "Art.8653964",
+            "Art.328403218",
+            "Art.28463069"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.61938941,Art.8653964,Art.328403218,Art.28463069"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.179780609",
+      "name": "Trending Rock",
+      "modified": "2022-02-03T00:42:41.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.179780609",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.179780609",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.179780609/artists/images/230x153.jpg",
+          "contentId": "pp.179780609",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "Your go-to playlist for big hits and new releases. Turn it up!",
+      "favoriteCount": 3070,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "1E8ABCD0F5BA2012E043C0A87FE42012"
+          ],
+          "href": "https://api.napster.com/v2.1/members/1E8ABCD0F5BA2012E043C0A87FE42012"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.179780609/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196420",
+            "tag.152196498"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196420,tag.152196498"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.61025",
+            "Art.46389553",
+            "Art.2310",
+            "Art.5196427"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.61025,Art.46389553,Art.2310,Art.5196427"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.224772103",
+      "name": "#trendingcountry",
+      "modified": "2022-01-31T20:06:21.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.224772103",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.224772103",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.224772103/artists/images/230x153.jpg",
+          "contentId": "pp.224772103",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "#trendingcountry",
+      "favoriteCount": 5185,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "97B6912783C37062E043C0A87FBE7062"
+          ],
+          "href": "https://api.napster.com/v2.1/members/97B6912783C37062E043C0A87FBE7062"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.224772103/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196534",
+            "tag.152196531",
+            "tag.152196420",
+            "tag.156763213"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196534,tag.152196531,tag.152196420,tag.156763213"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.7318667",
+            "Art.46986222",
+            "Art.53930498",
+            "Art.32929141"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.7318667,Art.46986222,Art.53930498,Art.32929141"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.253600731",
+      "name": "Song of the Day",
+      "modified": "2022-02-07T21:17:04.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.253600731",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.253600731",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.253600731/artists/images/230x153.jpg",
+          "contentId": "pp.253600731",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "Handpicked songs you need to hear",
+      "favoriteCount": 2654,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "205D5C750C8A03D0E050960A39036947"
+          ],
+          "href": "https://api.napster.com/v2.1/members/205D5C750C8A03D0E050960A39036947"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.253600731/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196543",
+            "tag.152196557",
+            "tag.152196531",
+            "tag.152196523",
+            "tag.152196515",
+            "tag.152196505",
+            "tag.152196498",
+            "tag.152196495"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196543,tag.152196557,tag.152196531,tag.152196523,tag.152196515,tag.152196505,tag.152196498,tag.152196495"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.293620938",
+            "Art.106695365",
+            "Art.21545732",
+            "Art.118862912"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.293620938,Art.106695365,Art.21545732,Art.118862912"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.179829496",
+      "name": "Top Tracks in US",
+      "modified": "2022-02-01T21:43:15.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.179829496",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.179829496",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.179829496/artists/images/230x153.jpg",
+          "contentId": "pp.179829496",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "The most streamed songs in Napster US",
+      "favoriteCount": 5332,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "205D5C750C8A03D0E050960A39036947"
+          ],
+          "href": "https://api.napster.com/v2.1/members/205D5C750C8A03D0E050960A39036947"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.179829496/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.219854772",
+            "tag.156763213",
+            "tag.152196420"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.219854772,tag.156763213,tag.152196420"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.20554979",
+            "Art.318735684",
+            "Art.39347166",
+            "Art.626878020"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.20554979,Art.318735684,Art.39347166,Art.626878020"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.227349347",
+      "name": "Drop the Mic",
+      "modified": "2022-01-26T23:31:25.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.227349347",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.227349347",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.227349347/artists/images/230x153.jpg",
+          "contentId": "pp.227349347",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "A deep-dive into the byzantine world of rap music and hip-hop culture. Jump in and have fun.",
+      "favoriteCount": 2408,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "97B6912783C37062E043C0A87FBE7062"
+          ],
+          "href": "https://api.napster.com/v2.1/members/97B6912783C37062E043C0A87FBE7062"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.227349347/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.156763213",
+            "tag.152196515"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.156763213,tag.152196515"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.639141710",
+            "Art.595300043",
+            "Art.69089",
+            "Art.22077184"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.639141710,Art.595300043,Art.69089,Art.22077184"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.222517949",
+      "name": "Global Trending",
+      "modified": "2021-02-08T19:26:56.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.222517949",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.222517949",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.222517949/artists/images/230x153.jpg",
+          "contentId": "pp.222517949",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "Global Trending",
+      "favoriteCount": 11672,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "205D5C750C8A03D0E050960A39036947"
+          ],
+          "href": "https://api.napster.com/v2.1/members/205D5C750C8A03D0E050960A39036947"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.222517949/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.152196420"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.152196420"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.42919",
+            "Art.370184849",
+            "Art.32903801",
+            "Art.371557322"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.42919,Art.370184849,Art.32903801,Art.371557322"
+        }
+      }
+    },
+    {
+      "type": "playlist",
+      "id": "pp.234639838",
+      "name": "Brown Sugar",
+      "modified": "2022-02-03T22:16:32.000Z",
+      "href": "https://api.napster.com/v2.1/playlists/pp.234639838",
+      "privacy": "public",
+      "images": [
+        {
+          "type": "image",
+          "id": "pp.234639838",
+          "url": "http://direct.napster.com/imageserver/v2/playlists/pp.234639838/artists/images/230x153.jpg",
+          "contentId": "pp.234639838",
+          "width": 230,
+          "height": 153,
+          "isDefault": true,
+          "version": 0,
+          "imageType": "displayImage"
+        }
+      ],
+      "description": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tThis bi-weekly playlist digs into the everlasting groove, funky beats, gospel and blues that make up th\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\te world’s heartbeat.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+      "favoriteCount": 1833,
+      "freePlayCompliant": true,
+      "links": {
+        "members": {
+          "ids": [
+            "97B6912783C37062E043C0A87FBE7062"
+          ],
+          "href": "https://api.napster.com/v2.1/members/97B6912783C37062E043C0A87FBE7062"
+        },
+        "tracks": {
+          "href": "https://api.napster.com/v2.1/playlists/pp.234639838/tracks"
+        },
+        "tags": {
+          "ids": [
+            "tag.177551102",
+            "tag.152196557",
+            "tag.152196571",
+            "tag.152196537",
+            "tag.152196523",
+            "tag.156763213"
+          ],
+          "href": "https://api.napster.com/v2.1/tags/tag.177551102,tag.152196557,tag.152196571,tag.152196537,tag.152196523,tag.156763213"
+        },
+        "sampleArtists": {
+          "ids": [
+            "Art.223946116",
+            "Art.186813616",
+            "Art.68030824",
+            "Art.62166"
+          ],
+          "href": "https://api.napster.com/v2.1/artists/Art.223946116,Art.186813616,Art.68030824,Art.62166"
+        }
+      }
+    }
+  ]
+}
